@@ -1,6 +1,4 @@
 # SQL-Analytics-Data-Engineering
-A collect of SQL analytics and data engineering solutions focused on data modelling, transformation and analytics-ready datasets for modern data platforms
-# SQL-Analytics-Data-Engineering
 
 SQL for analytics and data engineering, focused on building scalable, analytics-ready datasets using best practices in data modeling and transformations.
 
